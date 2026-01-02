@@ -5,7 +5,7 @@
 ## Features
 - The functional PCB is shared by both front pannels
 - There is a battery connector for KOSMO sized modules
-- On Eurorack the power connection is made directy tith pins (NICE!)
+- On Eurorack the power connection is made directly with pins (NICE!)
 - The modules can share power (3:1) to save some components and prescious power bus connections
 - The modules can be Linked inside the case for cleaner setups. The internal link is switchable
 
@@ -17,3 +17,4 @@
 ## Famous last Words:
 
 have FUN and don't blame me if you fry your PO ;)
+
